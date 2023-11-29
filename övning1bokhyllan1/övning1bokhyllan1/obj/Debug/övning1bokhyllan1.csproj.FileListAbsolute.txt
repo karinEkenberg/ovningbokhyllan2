@@ -1,0 +1,8 @@
+C:\Users\zirko\source\repos\övning1bokhyllan1\övning1bokhyllan1\bin\Debug\övning1bokhyllan1.exe.config
+C:\Users\zirko\source\repos\övning1bokhyllan1\övning1bokhyllan1\bin\Debug\övning1bokhyllan1.exe
+C:\Users\zirko\source\repos\övning1bokhyllan1\övning1bokhyllan1\bin\Debug\övning1bokhyllan1.pdb
+C:\Users\zirko\source\repos\övning1bokhyllan1\övning1bokhyllan1\obj\Debug\övning1bokhyllan1.csproj.AssemblyReference.cache
+C:\Users\zirko\source\repos\övning1bokhyllan1\övning1bokhyllan1\obj\Debug\övning1bokhyllan1.csproj.SuggestedBindingRedirects.cache
+C:\Users\zirko\source\repos\övning1bokhyllan1\övning1bokhyllan1\obj\Debug\övning1bokhyllan1.csproj.CoreCompileInputs.cache
+C:\Users\zirko\source\repos\övning1bokhyllan1\övning1bokhyllan1\obj\Debug\övning1bokhyllan1.exe
+C:\Users\zirko\source\repos\övning1bokhyllan1\övning1bokhyllan1\obj\Debug\övning1bokhyllan1.pdb
